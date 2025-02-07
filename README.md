@@ -14,6 +14,8 @@ Demo: [Youtube](https://youtu.be/P06ZWVtaAYM)
 
 Feel free to explore the code in the `Assets/Scripts` folder to understand how the game is implemented.
 
+![image](https://github.com/user-attachments/assets/e3479a0f-8226-4f58-9b20-8bf197b3e5c5)
+
 ## Features
 
 ## Installation
